@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /files/Mustafa-Çetinkaya.jpg
+Allow: /files/Resume-Mustafa-Çetinkaya.pdf
+Disallow: /files/css.css

@@ -1144,7 +1144,7 @@ hr {
 }
 
 .body {
-    overflow: auto !important;
+    /* overflow: auto !important; */
 }
 
     .body:after {
